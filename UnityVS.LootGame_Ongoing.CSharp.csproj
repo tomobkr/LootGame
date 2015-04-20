@@ -60,9 +60,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\LootGame\Scripts\Enemies\EnemyMovement.cs" />
+    <Compile Include="Assets\LootGame\Scripts\Enemies\WaypointEnter.cs" />
     <Compile Include="Assets\LootGame\Scripts\GUI\UIUpdate.cs" />
     <Compile Include="Assets\LootGame\Scripts\Interfaces\IInteractable.cs" />
     <Compile Include="Assets\LootGame\Scripts\Interfaces\IPickupable.cs" />
+    <Compile Include="Assets\LootGame\Scripts\Interfaces\IWaypointHandler.cs" />
     <Compile Include="Assets\LootGame\Scripts\Object Scripts\ChestUse.cs" />
     <Compile Include="Assets\LootGame\Scripts\Object Scripts\DoorOpen.cs" />
     <Compile Include="Assets\LootGame\Scripts\Object Scripts\GoldPickup.cs" />

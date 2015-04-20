@@ -1,7 +1,5 @@
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
-E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
-E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\Pathfinding.JsonFx.dll
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEditor.dll
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEngine.dll
@@ -10,7 +8,5 @@ E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEngine.xml
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEditor.xml
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
 E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
-E:\Unity Loot Project\LootGame_Ongoing\obj\Debug\UnityVS.LootGame_Ongoing.CSharp.csprojResolveAssemblyReference.cache
 E:\Unity Loot Project\LootGame_Ongoing\obj\Debug\Assembly-CSharp.dll
 E:\Unity Loot Project\LootGame_Ongoing\obj\Debug\Assembly-CSharp.pdb
-E:\Unity Loot Project\LootGame_Ongoing\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb

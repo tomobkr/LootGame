@@ -9,6 +9,7 @@ TagManager:
   - GoldScore
   - UseButton
   - Wall
+  - Waypoint
   layers:
   - Default
   - TransparentFX
